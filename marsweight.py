@@ -1,12 +1,22 @@
-mar_multiple=0.378
-def main():
-    Earth_weight_str= input("What is you  weight on Earth? ")
-    Earth_weigth=float(Earth_weight_str)
+# defining constant as mars multiple
+MARS_MULTIPLE = 0.378
 
-    Mars= (Earth_weigth * mar_multiple)
-    print("Your equivalent weight on Mars is: "+ str(Mars))
-# declare input
+def main():
+    #declaring Variable and getting input from user
+
+
+
+    #typecasting the input in string to float
+
+
+
+    #Defining Mars weight calculaton formula and assigning variable
+
+
+
+    #string concatenation and  concatenation
 
 if __name__=="__main__":
     main()
+
 
