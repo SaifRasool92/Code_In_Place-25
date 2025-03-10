@@ -12,7 +12,7 @@ def main():
     Earth_weight=float(Earth_weight_str)
 
 
-
+     
     #Defining Mars weight calculaton formula and assigning variable
     Mars_weight=(Earth_weight*Mars)
 
