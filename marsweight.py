@@ -6,9 +6,9 @@ def main():
     #declaring Variable and getting input from user
 
 
-         
 
-    #typecasting the input in string to float
+
+    #typecasting the input in string to float     
     Earth_weight=float(Earth_weight_str)
 
 
