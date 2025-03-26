@@ -10,7 +10,7 @@ def main():
     #typecasting the input in string to float
 
 
-  
+     
     #Defining Mars weight calculation formula and assigning variable
     mars_weight=(MARS_MULTIPLE*earth_weight)
 
