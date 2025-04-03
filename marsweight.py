@@ -4,7 +4,7 @@ MARS_MULTIPLE = 0.378
 def MASS_CONVERTER():
 
     #declaring Variable and getting input from user
-    earth_weight=int(input("What is our weight on Earth? "))
+    earth_weight=(input("What is our weight on Earth? ")
 
 
     #typecasting the input in string to float
