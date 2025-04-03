@@ -8,11 +8,11 @@ def MASS_CONVERTER():
 
 
     #typecasting the input in string to float
-
+    MARS_weight=int(earth_weight)
 
  
     #Defining Mars weight calculation formula and assigning variable
-    mars_weight=(MARS_MULTIPLE*earth_weight)
+    mars_weight=(MARS_MULTIPLE*MARS_weight)
 
     #string concatenation and  concatenation
     print(f"This is your weight on mars {mars_weight}")
