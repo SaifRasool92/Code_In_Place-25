@@ -16,7 +16,7 @@ def MASS_CONVERTER():
 
     #string concatenation and  concatenation
     print(f"This is your weight on mars {mars_weight}")
-if __name__=="__main__":
-    main()
+if __name__=="__MASS_CONVERTER__":
+    MASS_CONVERTER()
 
 
