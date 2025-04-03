@@ -1,7 +1,7 @@
 # defining constant as mars multiple
 MARS_MULTIPLE = 0.378
 
-def main():
+def MASS_CONVERTER():
 
     #declaring Variable and getting input from user
     earth_weight=int(input("What is our weight on Earth? "))
