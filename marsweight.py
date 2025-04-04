@@ -20,3 +20,7 @@ if __name__=="__MASS_CONVERTER__":
     MASS_CONVERTER()
 
 
+#INPUT 12
+
+
+
