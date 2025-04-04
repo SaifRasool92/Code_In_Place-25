@@ -21,6 +21,6 @@ if __name__=="__MASS_CONVERTER__":
 
 
 #INPUT 12
-#OUTPUT 
+#OUTPUT 4.42
 
 
