@@ -4,25 +4,17 @@ MARS_MULTIPLE = 0.378
 def main():
 
     #declaring Variable and getting input from user
-    earth_weight=int(input("What is our weight on Earth? "))
 
 
-    #typecasting the input in string to float
+    #Converting input as string to float to perform conversion is typecasting
 
 
      
-    #Defining Mars weight calculation formula and assigning variable
-    mars_weight=(MARS_MULTIPLE*earth_weight)
+    #Defining Mars weight calculation formula and storing weight in mars_weight variable
 
-    #string concatenation and  concatenation
-    #  we will take input from user and define our first variable
-    #
 
-    # Typecasting converting input as string to float to perform conversion
-
-    # Defining the formula that will work behind calculator
-
-    # Here is the string concatenation
+    #Print and concatenation of strings (combining two strings in one)
+    
 if __name__=="__main__":
     main()
 
