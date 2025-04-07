@@ -11,7 +11,7 @@ def MASS_CONVERTER():
     MARS_weight=int(earth_weight)
 
  
-   #Defining Mars weight calculation formula and assigning variable
+    #Defining Mars weight calculation formula and assigning variable
     mars_weight=(MARS_MULTIPLE*MARS_weight)
 
     #string concatenation and  concatenation
