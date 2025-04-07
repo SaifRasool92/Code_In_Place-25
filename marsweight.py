@@ -15,7 +15,14 @@ def main():
     mars_weight=(MARS_MULTIPLE*earth_weight)
 
     #string concatenation and  concatenation
-    print(f"This is your weight on mars {mars_weight}")
+    #  we will take input from user and define our first variable
+    #
+
+    # Typecasting converting input as string to float to perform conversion
+
+    # Defining the formula that will work behind calculator
+
+    # Here is the string concatenation
 if __name__=="__main__":
     main()
 
