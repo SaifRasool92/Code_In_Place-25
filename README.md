@@ -12,7 +12,7 @@ Hello! I'm **Eesha Tariq**, the **Section Leader** for **Stanford Code in Place 
 - **Who:** Anyone with **no programming experience** and the **time to learn**.
 - **Where:** Anywhere with an internet connection.
 - **What:** Learn the first half of Stanford's intro to Python course, **CS106A**.
-- **When:** Class starts **April 21st, 2025**, and applications are due by **April 9th, 2025**.
+- **When:** Class starts **April 21st, 2025**
 - **Certification:** Yes! Build a **shareable portfolio** of your code, hosted by **Stanford University**.
 - **Commitment:** At least **7 hours/week for 6 weeks**. You set your own schedule.
 
