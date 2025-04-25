@@ -6,7 +6,7 @@ Hello! I'm **Eesha Tariq**, the **Section Leader** for **Stanford Code in Place 
 
 ## 🎓 What is **Stanford's Code in Place**?
 
-**Stanford University's** **Code in Place** is a unique opportunity to learn from **Stanford's flagship CS106A course**, one of the most popular courses at **Stanford University**, offered completely **online and for free**. This course is designed for beginners and will teach you the fundamentals of computer programming using the **Python** language. 
+**Stanford University's** **Code in Place** is a unique opportunity to learn from **Stanford's flagship CS106A course**, one of the most popular courses at **Stanford University**, offered completely **online and for free**. This course is designed for beginners and will teach you the fundamentals of computer programming using the **Python** language.
 
 ### Key Details for Students:
 - **Who:** Anyone with **no programming experience** and the **time to learn**.
@@ -26,15 +26,16 @@ What makes **Stanford's Code in Place** special is the community support. For ev
 
 ---
 
-## 📅 Section Details:
+## 📅 Weekly Schedule & Resources
 
-- **Section Time:** Every Friday at **9 PM (Pakistan Standard Time - PST)**
-- **Timezone Info:**
-  - **PST (Pakistan Standard Time):** 9:00 PM
-  - **PDT (Pacific Daylight Time):** 11:00 AM
-  - **EDT (Eastern Daylight Time):** 2:00 PM
-  - **BST (British Summer Time):** 5:00 PM
-  - **CET (Central European Time):** 3:00 PM
+| #  | Date               | Topic                  | Handout | Solutions                                      | Attendance |
+|----|--------------------|------------------------|---------|------------------------------------------------|------------|
+| 1  | April 25th, 9:00 PM | Welcome to Section     | [LinkedIn Recap](https://www.linkedin.com/posts/esha-tariqdev_stanford-codeinplace-aiforeveryone-activity-7321611785772380161-Su7g?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w) | [Karel Hospital Solution](https://github.com/codewithEshaYoutube/Stanford_Code_In_Place/blob/main/karel_hospital.py) | ✅ |
+| 2  | May 2nd, 9:00 PM   | Art of Karel           | –       | –                                              | UPCOMING          |
+| 3  | May 9th, 9:00 PM   | Intro to Python        | –       | –                                              |  UPCOMING         |
+| 4  | May 16th, 9:00 PM  | Python Control Flow    | –       | –                                              |  UPCOMING           |
+| 5  | May 23rd, 9:00 PM  | Graphics               | –       | –                                              |  UPCOMING           |
+| 6  | May 30th, 9:00 PM  | Lists and Dictionaries | –       | –                                              |  UPCOMING            |
 
 ---
 
@@ -54,6 +55,18 @@ I am excited to work with these amazing students in **Stanford Code in Place 202
 - Eve M
 
 _(This list will be updated as we progress through the course.)_
+
+---
+
+## 📅 Section Details
+
+- **Section Time:** Every Friday at **9 PM (Pakistan Standard Time - PST)**
+- **Timezone Info:**
+  - **PST (Pakistan Standard Time):** 9:00 PM
+  - **PDT (Pacific Daylight Time):** 11:00 AM
+  - **EDT (Eastern Daylight Time):** 2:00 PM
+  - **BST (British Summer Time):** 5:00 PM
+  - **CET (Central European Time):** 3:00 PM
 
 ---
 
