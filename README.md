@@ -28,14 +28,14 @@ What makes **Stanford's Code in Place** special is the community support. For ev
 
 ## 📅 Weekly Schedule & Resources
 
-| #  | Date               | Topic                  | Handout | Solutions                                      | Attendance |
-|----|--------------------|------------------------|---------|------------------------------------------------|------------|
+| #  | Date               | Topic                  | Handout | Solutions                                                                                      | Attendance |
+|----|--------------------|------------------------|---------|------------------------------------------------------------------------------------------------|------------|
 | 1  | April 25th, 9:00 PM | Welcome to Section     | [LinkedIn Recap](https://www.linkedin.com/posts/esha-tariqdev_stanford-codeinplace-aiforeveryone-activity-7321611785772380161-Su7g?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w) | [Karel Hospital Solution](https://github.com/codewithEshaYoutube/Stanford_Code_In_Place/blob/main/karel_hospital.py) | ✅ |
-| 2  | May 2nd, 9:00 PM   | Art of Karel           | –       | –                                              | UPCOMING          |
-| 3  | May 9th, 9:00 PM   | Intro to Python        | –       | –                                              |  UPCOMING         |
-| 4  | May 16th, 9:00 PM  | Python Control Flow    | –       | –                                              |  UPCOMING           |
-| 5  | May 23rd, 9:00 PM  | Graphics               | –       | –                                              |  UPCOMING           |
-| 6  | May 30th, 9:00 PM  | Lists and Dictionaries | –       | –                                              |  UPCOMING            |
+| 2  | May 2nd, 9:00 PM   | Art of Karel           | [LinkedIn Recap](https://www.linkedin.com/posts/esha-tariqdev_codeinplace-stanfordcs-python-activity-7324118264727457793-fbd4?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w) | [Spread Beeper Solution](https://github.com/codewithEshaYoutube/Stanford_Code_In_Place/blob/main/Spread_beeper.py) | ✅ |
+| 3  | May 9th, 9:00 PM   | Intro to Python        | –       | –                                                                                              | UPCOMING   |
+| 4  | May 16th, 9:00 PM  | Python Control Flow    | –       | –                                                                                              | UPCOMING   |
+| 5  | May 23rd, 9:00 PM  | Graphics               | –       | –                                                                                              | UPCOMING   |
+| 6  | May 30th, 9:00 PM  | Lists and Dictionaries | –       | –                                                                                              | UPCOMING   |
 
 ---
 
@@ -52,7 +52,8 @@ I am excited to work with these amazing students in **Stanford Code in Place 202
 - Shivani P
 - Vuong H
 - Yulu X
-- Eve M
+- [Eve Mak](https://www.linkedin.com/in/evemak/)
+- [Poornashree L](https://www.linkedin.com/in/poornashree-l-19b620294/)
 
 _(This list will be updated as we progress through the course.)_
 
@@ -113,8 +114,6 @@ This repository is maintained for educational purposes and follows **Stanford Co
 Thank you for being part of **Stanford Code in Place 2025**! Let’s make the most of this learning experience and build strong programming foundations together!
 
 ---
-
-Feel free to contact me anytime via email or LinkedIn.
 
 Happy Coding! ✨
 
