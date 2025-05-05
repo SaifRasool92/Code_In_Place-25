@@ -1,42 +1,4 @@
 
-    earth_weight_str = input('Enter a weight on Earth: ')
-
-    # Get the numeric value since input() returns a value in string form
-    earth_weight = float(earth_weight_str)
-
-    # Having a variable for each piece of information is a good habit
-    mars_weight = earth_weight * MARS_MULTIPLE
-    rounded_mars_weight = round(mars_weight, 2)
-
-
-    # Note the string concatenation!
-    print('The equivalent weight on Mars: ' + str(rounded_mars_weight))
-
-if __name__ == '__main__':
-    main()
-
-
-
-
-
-
-Planetary Weights Solution
-
-
-There are two key parts to this solution:
-
-
-
-
-
-Everything from the first part of the problem: getting a user's input, converting it to a float to do the calculation, and converting it to a string to print it out.
-
-
-
-Using if statements to check which gravitational constant to use based on the user's input.  
-
-Solution
-
 """
 Prompts the user for a weight on Earth
 and a planet (in separate inputs). Then 
