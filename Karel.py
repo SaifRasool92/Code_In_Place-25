@@ -1,6 +1,6 @@
 """A cheat-sheet with the structure of the Karel programming language. See the Karel Reader for more details:
 
-
+  
 
 Base Karel commands
 
