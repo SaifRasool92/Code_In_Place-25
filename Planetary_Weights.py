@@ -44,7 +44,7 @@ def main():
         gravity_constant = NEPTUNE_GRAVITY
 
     # Calculate the equivalent weight on the selected planet
-    planetary_weight = earth_weight * gravity_constant
+     planetary_weight = earth_weight * gravity_constant
     rounded_planetary_weight = round(planetary_weight, 2)
 
     # Print the result
