@@ -52,6 +52,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-    git add -a
-    git commit -m "update"
-    git push
+   
