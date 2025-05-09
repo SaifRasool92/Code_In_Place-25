@@ -1,28 +1,22 @@
 # defining constant as mars multiple
-<<<<<<< HEAD
-=======
- MARS_MULTIPLE = 0.378
->>>>>>> bfe8274cca1ad083626aa595026d155be3393f8b
 
-def MASS_CONVERTER():
+MARS_MULTIPLE = 0.378
 
-<<<<<<< HEAD
-    # getting input from user and storing in variable
-=======
+def main():
+
+   # getting input from user and storing in variable
+
     #declaring Variable and getting input from user
-    earth_weight=(input("What is our weight on Earth? ")
->>>>>>> bfe8274cca1ad083626aa595026d155be3393f8b
+    earth_weight=input("What is our weight on Earth? ")
 
     #changing type of the string(taking as input) to float is called typecasting
 
-<<<<<<< HEAD
     #Defining Mars weight calculation formula and storing value in variable mars_weight
 
     #printing string concatenation (combining two strings into one)
 
-if __name__=="__main__":
-    main()
-=======
+
+
     #typecasting the input in string to float
     MARS_weight=int(earth_weight)
 
@@ -32,12 +26,11 @@ if __name__=="__main__":
 
     #string concatenation and  concatenation
     print(f"This is your weight on mars {mars_weight}")
-if __name__=="__MASS_CONVERTER__":
-    MASS_CONVERTER()
+if __name__=="__main__":
+    main()
 
 
 #INPUT 12
 #OUTPUT 4.42
->>>>>>> bfe8274cca1ad083626aa595026d155be3393f8b
 
 
