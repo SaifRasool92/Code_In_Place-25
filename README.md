@@ -31,13 +31,21 @@ What makes **Stanford's Code in Place** special is the community support. For ev
 | #  | Date               | Topic                  | Handout | Solutions                                                                                      | Attendance |
 |----|--------------------|------------------------|---------|------------------------------------------------------------------------------------------------|------------|
 | 1  | April 25th, 9:00 PM | Welcome to Section     | [LinkedIn Recap](https://www.linkedin.com/posts/esha-tariqdev_stanford-codeinplace-aiforeveryone-activity-7321611785772380161-Su7g?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w) | [Karel Hospital Solution](https://github.com/codewithEshaYoutube/Stanford_Code_In_Place/blob/main/karel_hospital.py) | ✅ |
-| 2  | May 2nd, 9:00 PM   | Art of Karel           | [LinkedIn Recap](https://www.linkedin.com/posts/esha-tariqdev_codeinplace-stanfordcs-python-activity-7324118264727457793-fbd4?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w) | [Spread Beeper Solution](https://github.com/codewithEshaYoutube/Stanford_Code_In_Place/blob/main/Spread_beeper.py) | ✅ |
-| 3  | May 9th, 9:00 PM   | Intro to Python        | –       | –                                                                                              | UPCOMING   |
+| 2  | May 2nd, 9:00 PM   | Art of Karel           | [LinkedIn Recap](https://www.linkedin.com/posts/esha-tariqdev_codeinplace-stanfordcs-python-activity-7324118264727457793-fbd4?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w) | [Spread Beeper](https://github.com/codewithEshaYoutube/Stanford_Code_In_Place/blob/main/Spread_beeper.py), [Checkerboard Karel](https://github.com/codewithEshaYoutube/Stanford_Code_In_Place/blob/main/Checkerboard_Karel.py) | ✅ |
+| 3  | May 9th, 9:00 PM   | Intro to Python        | [LinkedIn Recap](https://www.linkedin.com/posts/esha-tariqdev_python-codeinplace-stanford-activity-7326659905854033920-uIBC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3wn) | [Mars Weight](https://github.com/codewithEshaYoutube/Stanford_Code_In_Place/blob/main/marsweight.py), [Planetary Weights](https://github.com/codewithEshaYoutube/Stanford_Code_In_Place/blob/main/Planetary_Weights.py) | ✅ |
 | 4  | May 16th, 9:00 PM  | Python Control Flow    | –       | –                                                                                              | UPCOMING   |
 | 5  | May 23rd, 9:00 PM  | Graphics               | –       | –                                                                                              | UPCOMING   |
 | 6  | May 30th, 9:00 PM  | Lists and Dictionaries | –       | –                                                                                              | UPCOMING   |
 
 ---
+
+## 🌟 Advanced Problem Set
+
+| Problem Name           | Description                      | Solution Link                                                                                  |
+|------------------------|----------------------------------|-------------------------------------------------------------------------------------------------|
+| Checkerboard Karel     | Create a checkerboard pattern using Karel | [Solution ✅](https://github.com/codewithEshaYoutube/Stanford_Code_In_Place/blob/main/Checkerboard_Karel.py) |
+| Planetary Weights      | Calculate weight on any planet based on Earth weight | [Solution ✅](https://github.com/codewithEshaYoutube/Stanford_Code_In_Place/blob/main/Planetary_Weights.py) |
+
 
 ## 🧑‍🎓 Students in My Section
 
