@@ -20,7 +20,7 @@ EARTH_GRAVITY = 1.0
 
 def main():
     # Prompt the user for their weight on Earth
-    earth_weight = float(input("Enter a weight on Earth: "))
+    earth_weight = float(input("Enter  your weight on Earth? "))
 
     # Prompt the user for the name of a planet
     planet = input("Enter a planet: ")
