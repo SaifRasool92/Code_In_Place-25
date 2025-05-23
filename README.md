@@ -46,8 +46,8 @@ What makes **Stanford's Code in Place** special is the community support. For ev
 | Planetary Weights      | Calculate weight on any planet based on Earth weight | [Solution ✅](https://github.com/codewithEshaYoutube/Stanford_Code_In_Place/blob/main/Planetary_Weights.py) | [Week 3 Recap](https://www.linkedin.com/posts/esha-tariqdev_python-codeinplace-stanford-activity-7326659905854033920-uIBC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3wn) |
 | High-Low Game          | Fun interactive Python game applying if-else logic | [Solution ✅](https://github.com/codewithEshaYoutube/Stanford_Code_In_Place/blob/main/High-Low_Game.py) | [Week 4 Recap](https://www.linkedin.com/posts/esha-tariqdev_stanford-university-code-in-place-week-activity-7329209593698344961-BeJy?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w) |
 | Khansole Academy       | Additional problem-solving challenge           | [Solution ✅](https://github.com/codewithEshaYoutube/Stanford_Code_In_Place/blob/main/Khansole_Academy.py) | – |
+| Draw Flag              | Use Python graphics to draw a creative flag   | [Solution ✅](https://github.com/codewithEshaYoutube/Stanford_Code_In_Place/blob/main/Draw_Flag.py) | [Week 5 Recap](https://www.linkedin.com/posts/esha-tariqdev_codeinplace-pythongraphics-eeshateaches-activity-7331732058064457729-IEiS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w) |
 
----
 
 ## 🎓 TeachNow Sessions Impact – Stanford Code in Place
 
