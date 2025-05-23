@@ -6,7 +6,7 @@ CANVAS_HEIGHT = 300
 
 def main():
     canvas = Canvas(CANVAS_WIDTH, CANVAS_HEIGHT)
-    rect = canvas.create_rectan(
+    rect = canvas.create_rectangle(
     0, 
     0, 
     450, 
