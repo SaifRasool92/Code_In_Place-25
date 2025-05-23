@@ -24,19 +24,17 @@ What makes **Stanford's Code in Place** special is the community support. For ev
 - **Stanford's CS106A** has been developed over **30 years** by an amazing team, including **Nick Parlante** and **Eric Roberts**.
 - Over **1,600 students** take this course annually, making it a rich and diverse learning experience.
 
----
 ## 📅 Weekly Schedule & Resources
 
 | #  | Date               | Topic                  | LinkedIn Recap                                                                                  | Solutions                                                                                      | Attendance |
-|----|--------------------|------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|------------|
+|----|--------------------|------------------------|--------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|------------|
 | 1  | April 25th, 9:00 PM | Welcome to Section     | [Week 1 Recap](https://www.linkedin.com/posts/esha-tariqdev_stanford-codeinplace-aiforeveryone-activity-7321611785772380161-Su7g?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w) | [Karel Hospital Solution](https://github.com/codewithEshaYoutube/Stanford_Code_In_Place/blob/main/karel_hospital.py) | ✅ |
 | 2  | May 2nd, 9:00 PM   | Art of Karel           | [Week 2 Recap](https://www.linkedin.com/posts/esha-tariqdev_codeinplace-stanfordcs-python-activity-7324118264727457793-fbd4?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w) | [Spread Beeper](https://github.com/codewithEshaYoutube/Stanford_Code_In_Place/blob/main/Spread_beeper.py), [Checkerboard Karel](https://github.com/codewithEshaYoutube/Stanford_Code_In_Place/blob/main/Checkerboard_Karel.py) | ✅ |
 | 3  | May 9th, 9:00 PM   | Intro to Python        | [Week 3 Recap](https://www.linkedin.com/posts/esha-tariqdev_python-codeinplace-stanford-activity-7326659905854033920-uIBC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3wn) | [Mars Weight](https://github.com/codewithEshaYoutube/Stanford_Code_In_Place/blob/main/marsweight.py), [Planetary Weights](https://github.com/codewithEshaYoutube/Stanford_Code_In_Place/blob/main/Planetary_Weights.py) | ✅ |
 | 4  | May 16th, 9:00 PM  | Python Control Flow    | [Week 4 Recap](https://www.linkedin.com/posts/esha-tariqdev_stanford-university-code-in-place-week-activity-7329209593698344961-BeJy?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w) | [High-Low Game](https://github.com/codewithEshaYoutube/Stanford_Code_In_Place/blob/main/High-Low_Game.py) | ✅ |
-| 5  | May 23rd, 9:00 PM  | Graphics               | –                                                                                              | –                                                                                              | UPCOMING   |
-| 6  | May 30th, 9:00 PM  | Lists and Dictionaries | –                                                                                              | –                                                                                              | UPCOMING   |
+| 5  | May 23rd, 9:00 PM  | Graphics               | [Week 5 Recap](https://www.linkedin.com/posts/esha-tariqdev_codeinplace-pythongraphics-eeshateaches-activity-7331732058064457729-IEiS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w) | [Random Circles](https://github.com/codewithEshaYoutube/Stanford_Code_In_Place/blob/main/Random_Circles.py) | ✅ |
+| 6  | May 30th, 9:00 PM  | Lists and Dictionaries | –                                                                                               | –                                                                                              | UPCOMING   |
 
----
 
 ## 🌟 Advanced Problem Set & Recaps
 
