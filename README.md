@@ -55,22 +55,6 @@ These sessions aim to create a collaborative, encouraging learning environment t
 
 ---
 
-### 💬 Feedback & Recognition
-
-Here’s what fellow learners and teaching staff shared following the sessions:
-
-- 🗣️ **Julio Gomez Benavides**  
-  *"Good work today! Your work is making a difference in students' lives."*  
-  _Thank you for the kind words!_
-
-- 💡 **Noman M**  
-  *"Well done on another session! Thank you for your hard work and dedication."*
-
-- 🙌 **Zarwa**  
-  *"Well done on another session! Thank you for your hard work and dedication."*
-
----
-
 
 
 
@@ -78,18 +62,16 @@ Here’s what fellow learners and teaching staff shared following the sessions:
 
 I am excited to work with these amazing students in **Stanford Code in Place 2025**!
 
-### 👥 Current Section Members:
-- Hsing-Yu W
-- Hanna St
-- Andrei C
-- Ibrahim D
-- Ayesha Abaidullah
-- Shivani P
-- Vuong H
-- Yulu X
-- [Eve Mak](https://www.linkedin.com/in/evemak/)
-- [Poornashree L](https://www.linkedin.com/in/poornashree-l-19b620294/)
-
+### 👥 Current Section Members From:
+### 🌍 Countries Represented:
+- Taiwan  
+- Canada  
+- Romania  
+- Kenya  
+- Pakistan  
+- India  
+- Vietnam  
+- China
 _(This list will be updated as we progress through the course.)_
 
 ---
