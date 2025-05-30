@@ -1,4 +1,4 @@
-    # Stanford Code in Place 2025 - Section Leader Repository
+ # Stanford Code in Place 2025 - Section Leader Repository
 
 Hello! I'm **Eesha Tariq**, the **Section Leader** for **Stanford Code in Place 2025**. This repository is created for my section to organize and share all course-related content, assignments, and resources. I’m excited to work with all of you as we dive into the fundamentals of computer programming!
 
