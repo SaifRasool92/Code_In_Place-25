@@ -1,36 +1,35 @@
-# defining constant as mars multiple
+"""
+Prompts the user for a weight on Earth
+and prints the equivalent weight on Mars.
+"""
 
-MARS_MULTIPLE = 0.378
 
+
+"""
+37.8/100=0.378
+constant
+input (str)- float    -formula-> mars_weight->  print
+
+"""
+MARS_CONSTANT=0.378
 def main():
+    earth_weight_str=(input("Enter a weight on Earth: "))
+    earth_weight=float(earth_weight_str) #typecasting
+    
 
-   # getting input from user and storing in variable
+# 3.57687 -> 3.57
+    mars_weight= MARS_CONSTANT* earth_weight
+    rounded_earth_weight=round(mars_weight,2)
+    
 
-    #declaring Variable and getting input from user
-    earth_weight=input("What is our weight on Earth? ")
-
-    #changing type of the string(taking as input) to float is called typecasting
-
-    #Defining Mars weight calculation formula and storing value in variable mars_weight
-
-    #printing string concatenation (combining two strings into one)
-
+    print(f"The equivalent weight on Mars: {rounded_earth_weight}") #concatenat
 
 
-    #typecasting the input in string to float
-    MARS_weight=int(earth_weight)
 
- 
-    #Defining Mars weight calculation formula and assigning variable
-    mars_weight=(MARS_MULTIPLE*MARS_weight)
 
-    #string concatenation and  concatenation
-    print(f"This is your weight on mars {mars_weight}")
-if __name__=="__main__":
+
+    
+    
+
+if __name__ == "__main__":
     main()
-
-
-#INPUT 12
-#OUTPUT 4.42
-
-
