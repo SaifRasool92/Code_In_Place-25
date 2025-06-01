@@ -25,7 +25,6 @@ What makes **Stanford's Code in Place** special is the community support. For ev
 - Over **1,600 students** take this course annually, making it a rich and diverse learning experience.
 
 ## 📅 Weekly Schedule & Resources
-
 | #  | Date               | Topic                  | LinkedIn Recap                                                                                  | Solutions                                                                                      | Attendance |
 |----|--------------------|------------------------|--------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|------------|
 | 1  | April 25th, 9:00 PM | Welcome to Section     | [Week 1 Recap](https://www.linkedin.com/posts/esha-tariqdev_stanford-codeinplace-aiforeveryone-activity-7321611785772380161-Su7g?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w) | [Karel Hospital Solution](https://github.com/codewithEshaYoutube/Stanford_Code_In_Place/blob/main/karel_hospital.py) | ✅ |
@@ -33,7 +32,8 @@ What makes **Stanford's Code in Place** special is the community support. For ev
 | 3  | May 9th, 9:00 PM   | Intro to Python        | [Week 3 Recap](https://www.linkedin.com/posts/esha-tariqdev_python-codeinplace-stanford-activity-7326659905854033920-uIBC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3wn) | [Mars Weight](https://github.com/codewithEshaYoutube/Stanford_Code_In_Place/blob/main/marsweight.py), [Planetary Weights](https://github.com/codewithEshaYoutube/Stanford_Code_In_Place/blob/main/Planetary_Weights.py) | ✅ |
 | 4  | May 16th, 9:00 PM  | Python Control Flow    | [Week 4 Recap](https://www.linkedin.com/posts/esha-tariqdev_stanford-university-code-in-place-week-activity-7329209593698344961-BeJy?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w) | [High-Low Game](https://github.com/codewithEshaYoutube/Stanford_Code_In_Place/blob/main/High-Low_Game.py) | ✅ |
 | 5  | May 23rd, 9:00 PM  | Graphics               | [Week 5 Recap](https://www.linkedin.com/posts/esha-tariqdev_codeinplace-pythongraphics-eeshateaches-activity-7331732058064457729-IEiS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w) | [Random Circles](https://github.com/codewithEshaYoutube/Stanford_Code_In_Place/blob/main/Random_Circles.py) | ✅ |
-| 6  | May 30th, 9:00 PM  | Lists and Dictionaries | –                                                                                               | –                                                                                              | UPCOMING   |
+| 6  | May 30th, 9:00 PM  | Lists and Dictionaries | [Week 6 Recap](https://www.linkedin.com/posts/esha-tariqdev_codeinplace-stanfordcip-pythonlearning-activity-7334268281068969984-Fp4-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w) | [Heads Up](https://github.com/codewithEshaYoutube/Stanford_Code_In_Place/blob/main/Heads%20Up.py) | ✅ |
+
 
 
 ## 🌟 Advanced Problem Set & Recaps
@@ -45,6 +45,8 @@ What makes **Stanford's Code in Place** special is the community support. For ev
 | High-Low Game          | Fun interactive Python game applying if-else logic | [Solution ✅](https://github.com/codewithEshaYoutube/Stanford_Code_In_Place/blob/main/High-Low_Game.py) | [Week 4 Recap](https://www.linkedin.com/posts/esha-tariqdev_stanford-university-code-in-place-week-activity-7329209593698344961-BeJy?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w) |
 | Khansole Academy       | Additional problem-solving challenge           | [Solution ✅](https://github.com/codewithEshaYoutube/Stanford_Code_In_Place/blob/main/Khansole_Academy.py) | – |
 | Draw Flag              | Use Python graphics to draw a creative flag   | [Solution ✅](https://github.com/codewithEshaYoutube/Stanford_Code_In_Place/blob/main/Draw_Flag.py) | [Week 5 Recap](https://www.linkedin.com/posts/esha-tariqdev_codeinplace-pythongraphics-eeshateaches-activity-7331732058064457729-IEiS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAET0-qIBzXPQjrQe2J3E9xTPuf6cEQ71D3w) |
+| Index Game             | List-based Python game to sharpen logic and indexing | [Solution ✅](https://github.com/codewithEshaYoutube/Stanford_Code_In_Place/blob/main/Index_game.py) | – |
+
 
 
 ## 🎓 TeachNow Sessions Impact – Stanford Code in Place
