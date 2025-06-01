@@ -5,7 +5,7 @@ my_list = [1, 2, 3, 4]
 print(my_list[0])      # First element
 print(my_list[-1])     # Last element
 
-# Update
+# Update  
 my_list[1] = 20        # [1, 20, 3, 4]
 
 # Add elements
