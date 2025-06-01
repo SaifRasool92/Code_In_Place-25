@@ -15,6 +15,7 @@ my_list[1] = 20        # [1, 20, 3, 4]
 my_list.append(5)      # [1, 20, 3, 4, 5]
 my_list.insert(2, 99)  # [1, 20, 99, 3, 4, 5]
 
+
 # Remove elements
 my_list.remove(20)     # Remove by value → [1, 99, 3, 4, 5]
 del my_list[0]         # Remove by index → [99, 3, 4, 5]
