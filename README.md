@@ -58,6 +58,47 @@ These sessions aim to create a collaborative, encouraging learning environment t
 ---
 
 
+## 🏅 Stanford Code in Place 2025 – Official Credential
+
+🎓 **Role:** Section Leader  
+🌍 **University:** Islamia University of Bahawalpur  
+💡 **Taught Students From:** USA, UK, Canada, Romania, Taiwan, China, India, Pakistan, Kenya, and Vietnam  
+🖥️ **Course:** [CS106A - Programming Methodologies (Python)](https://codeinplace.stanford.edu)  
+👩‍🏫 **Platform:** Stanford Online
+
+---
+
+### 🔹 What I Did
+
+- ✅ Mentored a global classroom of **diverse students** in Python fundamentals  
+- ✅ Taught **6 weeks** of content including: Karel, graphics, control flow, functions, lists, dictionaries & problem-solving  
+- ✅ Delivered personalized 1:1 **TeachNow sessions** for debugging, logic building, and hands-on projects  
+- ✅ Maintained a detailed [GitHub repository](https://github.com/codewithEshaYoutube/Stanford_Code_In_Place) with solutions, recaps, and weekly progress  
+- ✅ Collaborated with **Stanford Head TAs Emma Wong, Maria Clarissa**, and global teaching peers  
+
+---
+
+### 🎖️ Verified Digital Credential  
+🔗 [Click here to view Stanford Digital Badge & Credential](https://digitalcredential.stanford.edu/check/68D4A9D4F7D8950EC46ED44D73066D0D52735F6086C003AD37A11735E1A4D5A5dmdhTEFKZkxOeFdGekszZDZaSXZLQ2VuTWoxWkZFbGhGQktuazVSOFpXY01yZFYw)
+
+---
+
+
+<h2>📜 Certificate of Completion</h2>
+
+<img src="VERIFIED DIGITAL PROOF.jpg" alt="Stanford Verified Credential" width="600" />
+
+
+---
+
+### 🧠 Skills Developed & Demonstrated
+
+- Python Programming (CS106A Fundamentals)
+- Global Teaching & Mentorship
+- Curriculum Delivery & Problem-Solving
+- Community Building & Code Collaboration
+- GitHub Project Management
+
 
 
 ## 🧑‍🎓 Students in My Section
