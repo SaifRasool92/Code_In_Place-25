@@ -1,6 +1,6 @@
   # Stanford Code in Place 2025 - Section Leader Repository
 
-Hello! I'm **Eesha Tariq**, the **Section Leader** for **Stanford Code in Place 2025**. This repository is created for my section to organize and share all course-related content, assignments, and resources. I’m excited to work with all of you as we dive into the fundamentals of computer programming!
+Hello! I'm **Saif Ur Rasool**, the **Section Leader** for **Stanford Code in Place 2025**. This repository is created for my section to organize and share all course-related content, assignments, and resources. I’m excited to work with all of you as we dive into the fundamentals of computer programming!
 
 ---
 
@@ -27,24 +27,24 @@ What makes **Stanford's Code in Place** special is the community support. For ev
 ## 📅 Weekly Schedule & Resources
 | #  | Date               | Topic                  | Solutions                                                                                      | Attendance |
 |----|--------------------|------------------------|------------------------------------------------------------------------------------------------|------------|
-| 1  | April 25th, 9:00 PM | Welcome to Section     | [Karel Hospital Solution](https://github.com/codewithEshaYoutube/Stanford_Code_In_Place/blob/main/karel_hospital.py) | ✅ |
-| 2  | May 2nd, 9:00 PM   | Art of Karel           | [Spread Beeper](https://github.com/codewithEshaYoutube/Stanford_Code_In_Place/blob/main/Spread_beeper.py), [Checkerboard Karel](https://github.com/codewithEshaYoutube/Stanford_Code_In_Place/blob/main/Checkerboard_Karel.py) | ✅ |
-| 3  | May 9th, 9:00 PM   | Intro to Python        | [Mars Weight](https://github.com/codewithEshaYoutube/Stanford_Code_In_Place/blob/main/marsweight.py), [Planetary Weights](https://github.com/codewithEshaYoutube/Stanford_Code_In_Place/blob/main/Planetary_Weights.py) | ✅ |
-| 4  | May 16th, 9:00 PM  | Python Control Flow    | [High-Low Game](https://github.com/codewithEshaYoutube/Stanford_Code_In_Place/blob/main/High-Low_Game.py) | ✅ |
-| 5  | May 23rd, 9:00 PM  | Graphics               | [Random Circles](https://github.com/codewithEshaYoutube/Stanford_Code_In_Place/blob/main/Random_Circles.py) | ✅ |
-| 6  | May 30th, 9:00 PM  | Lists and Dictionaries | [Heads Up](https://github.com/codewithEshaYoutube/Stanford_Code_In_Place/blob/main/Heads%20Up.py) | ✅ |
+| 1  | April 25th, 9:00 PM | Welcome to Section     | [Karel Hospital Solution](https://github.com/SaifRasool92/Code_In_Place-25/blob/main/karel_hospital.py) | ✅ |
+| 2  | May 2nd, 9:00 PM   | Art of Karel           | [Spread Beeper](https://github.com/SaifRasool92/Code_In_Place-25/blob/main/Spread_beeper.py), [Checkerboard Karel](https://github.com/SaifRasool92/Code_In_Place-25/blob/main/Checkerboard_Karel.py) | ✅ |
+| 3  | May 9th, 9:00 PM   | Intro to Python        | [Mars Weight](https://github.com/SaifRasool92/Code_In_Place-25/blob/main/marsweight.py), [Planetary Weights](https://github.com/SaifRasool92/Code_In_Place-25/blob/main/Planetary_Weights.py) | ✅ |
+| 4  | May 16th, 9:00 PM  | Python Control Flow    | [High-Low Game](https://github.com/SaifRasool92/Code_In_Place-25/blob/main/High-Low_Game.py) | ✅ |
+| 5  | May 23rd, 9:00 PM  | Graphics               | [Random Circles](https://github.com/SaifRasool92/Code_In_Place-25/blob/main/Random_Circles.py) | ✅ |
+| 6  | May 30th, 9:00 PM  | Lists and Dictionaries | [Heads Up](https://github.com/SaifRasool92/Code_In_Place-25/blob/main/Heads%20Up.py) | ✅ |
 
 
 ## 🌟 Advanced Problem Set & Recaps
 
 | Problem Name           | Description                                    | Solution Link                                                                                  |
 |------------------------|------------------------------------------------|-------------------------------------------------------------------------------------------------|
-| Checkerboard Karel     | Create a checkerboard pattern using Karel      | [Solution ✅](https://github.com/codewithEshaYoutube/Stanford_Code_In_Place/blob/main/Checkerboard_Karel.py) |
-| Planetary Weights      | Calculate weight on any planet based on Earth weight | [Solution ✅](https://github.com/codewithEshaYoutube/Stanford_Code_In_Place/blob/main/Planetary_Weights.py) |
-| High-Low Game          | Fun interactive Python game applying if-else logic | [Solution ✅](https://github.com/codewithEshaYoutube/Stanford_Code_In_Place/blob/main/High-Low_Game.py) |
-| Khansole Academy       | Additional problem-solving challenge           | [Solution ✅](https://github.com/codewithEshaYoutube/Stanford_Code_In_Place/blob/main/Khansole_Academy.py) |
-| Draw Flag              | Use Python graphics to draw a creative flag    | [Solution ✅](https://github.com/codewithEshaYoutube/Stanford_Code_In_Place/blob/main/Draw_Flag.py) |
-| Index Game             | List-based Python game to sharpen logic and indexing | [Solution ✅](https://github.com/codewithEshaYoutube/Stanford_Code_In_Place/blob/main/Index_game.py) |
+| Checkerboard Karel     | Create a checkerboard pattern using Karel      | [Solution ✅](https://github.com/SaifRasool92/Code_In_Place-25/blob/main/Checkerboard_Karel.py) |
+| Planetary Weights      | Calculate weight on any planet based on Earth weight | [Solution ✅](https://github.com/SaifRasool92/Code_In_Place-25/blob/main/Planetary_Weights.py) |
+| High-Low Game          | Fun interactive Python game applying if-else logic | [Solution ✅](https://github.com/SaifRasool92/Code_In_Place-25/blob/main/High-Low_Game.py) |
+| Khansole Academy       | Additional problem-solving challenge           | [Solution ✅](https://github.com/SaifRasool92/Code_In_Place-25/blob/main/Khansole_Academy.py) |
+| Draw Flag              | Use Python graphics to draw a creative flag    | [Solution ✅](https://github.com/SaifRasool92/Code_In_Place-25/blob/main/Draw_Flag.py) |
+| Index Game             | List-based Python game to sharpen logic and indexing | [Solution ✅](https://github.com/SaifRasool92/Code_In_Place-25/blob/main/Index_game.py) |
 
 
 
