@@ -1,4 +1,6 @@
-  # Stanford Code in Place 2025 - Section Leader Repository
+<div align='center'>
+  <h1> Stanford Code in Place 2025 - Section Leader Repository </h1>
+</div>
 
 Hello! I'm **Saif Ur Rasool**, the **Section Leader** for **Stanford Code in Place 2025**. This repository is created for my section to organize and share all course-related content, assignments, and resources. I’m excited to work with all of you as we dive into the fundamentals of computer programming!
 
@@ -23,7 +25,9 @@ What makes **Stanford's Code in Place** special is the community support. For ev
 ### **Course Creator Highlights**:
 - **Stanford's CS106A** has been developed over **30 years** by an amazing team, including **Nick Parlante** and **Eric Roberts**.
 - Over **1,600 students** take this course annually, making it a rich and diverse learning experience.
-
+- 
+<div align='center'>
+  
 ## 📅 Weekly Schedule & Resources
 | #  | Date               | Topic                  | Solutions                                                                                      | Attendance |
 |----|--------------------|------------------------|------------------------------------------------------------------------------------------------|------------|
@@ -46,7 +50,7 @@ What makes **Stanford's Code in Place** special is the community support. For ev
 | Draw Flag              | Use Python graphics to draw a creative flag    | [Solution ✅](https://github.com/SaifRasool92/Code_In_Place-25/blob/main/Draw_Flag.py) |
 | Index Game             | List-based Python game to sharpen logic and indexing | [Solution ✅](https://github.com/SaifRasool92/Code_In_Place-25/blob/main/Index_game.py) |
 
-
+</div>
 
 ## 🎓 TeachNow Sessions Impact – Stanford Code in Place
 
